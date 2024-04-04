@@ -1,6 +1,10 @@
 # StepGuard
 Indoor-outdoor system to clear people seated at the doorstep with loud sounds, Telegram notifications, and logs.
 
+# Tutorial 
+
+https://www.hackster.io/roni-bandini/step-guard-821d05
+
 # Parts
 
 ..Outside Unit
