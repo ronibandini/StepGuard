@@ -5,6 +5,7 @@ Indoor-outdoor system to clear people seated at the doorstep with loud sounds, T
 
 ..Outside Unit
 Beetle ESP32C3 https://www.dfrobot.com/product-2566.html
+
 Ultrasonic sensor https://www.dfrobot.com/product-53.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP
 
 ..Inside Unit
