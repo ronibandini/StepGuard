@@ -1,8 +1,11 @@
 # StepGuard
 Indoor-outdoor system to clear people seated at the doorstep with loud sounds, Telegram notifications, and logs.
 
-# PIR Sensor Version (paid)
-https://www.patreon.com/RoniBandini/shop/step-guard-pir-version-245641 
+# Versions
+
+1.0 Ultrasonic sensor for the outside unit
+3.0 Computer vision for the outside unit 
+4.0 PIR Version for the outside unit. https://www.patreon.com/RoniBandini/shop/step-guard-pir-version-245641 
 
 # Tutorial 
 
