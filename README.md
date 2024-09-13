@@ -36,7 +36,10 @@ Speaker https://www.dfrobot.com/product-1506.html?tracking=hOuIhw4fDaJRTdy4abz04
 
 https://cults3d.com/en/3d-model/gadget/step-guard
 
-# Contact
+# Contact 
 
-Roni Bandini
-@ronibandini
+📫 For code customizations or interesting Arduino and Raspberry Pi projects you can reach me at 
+
+https://www.instagram.com/ronibandini/
+
+https://x.com/RoniBandini
